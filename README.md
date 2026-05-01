@@ -156,9 +156,5 @@ char[][] board = {
     {' ', ' ', ' '}
 };
 
-## 🎮 Demo
 
-
-
-![Tic Tac Toe GUI](<img width="476" height="485" alt="Screenshot 2026-05-01 043132" src="https://github.com/user-attachments/assets/d75053ea-d120-4fb4-ba3d-9b7b59c40adf" />
 
